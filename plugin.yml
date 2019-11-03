@@ -1,0 +1,12 @@
+name: Yeomryo Country
+version: 1
+main: com.yeomryo.country.main
+commands:
+  국가:
+      description: 국가에 관련된 명령어입니다. by 염료
+      permission: 
+      usage: /<command>
+  ctr:
+      description: 국가에 관련된 명령어입니다. by 염료
+      permission: 
+      usage: /<command>
